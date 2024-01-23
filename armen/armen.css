@@ -1,0 +1,10 @@
+*{
+ box-sizing: border-box;
+}
+.div1 {
+background-image: url("rest.jpeg");
+background-repeat: no-repeat;
+}
+#heading {
+    display:none;
+}
